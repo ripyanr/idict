@@ -1,0 +1,2 @@
+# idict
+IDICT - Informatic Dictionary
